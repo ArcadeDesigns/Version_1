@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="images">
+    <file>seoicon.ico</file>
+    <file>adwords.jpg</file>
+    <file>daisieskindle8.jpg</file>
+    <file>daisieskindle12.jpg</file>
+    <file>default.jpg</file>
+    <file>pexels-pixabay-262508.jpg</file>
+    <file>seo.jpg</file>
+  </qresource>
+</RCC>
