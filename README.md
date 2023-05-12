@@ -7,3 +7,5 @@
   
   Note: This is presently in use with Hog Furnitures
 A simple Search Engine Optimization application, developed 2021, and in service with Hog Furniture.
+
+![GUI Framework](https://img.shields.io/badge/GUI%20Framework-PyQt5-orange)
